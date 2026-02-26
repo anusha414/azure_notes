@@ -1,0 +1,23 @@
+Azure storage account:-
+1. high durability, highly secure due to entraID, high performance and lifecycle
+
+Different storage services:-
+
+1. azure blob storage service:-
+To store large amount of unstructured data.
+eg;- large files, videos, images, source code files, configuration files
+This is equal to S3 on AWS
+
+2. Azure File storage service:-
+To share file system with multiple VM and multiple pods
+This is equal to EFS on AWS
+
+3. tables:-
+for NoSQL or semi structured data.
+
+4. queues:-
+when you have an application and it gets a lot of requests, to process the requests u have to store it in a queue n process it.
+This is equal to SQS on AWS.
+
+Storage browser:- This helps you to navigate beteewen different storage types directly from here
+In Storage account, it supports static website hosting.
