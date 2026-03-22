@@ -21,3 +21,7 @@ This is equal to SQS on AWS.
 
 Storage browser:- This helps you to navigate beteewen different storage types directly from here
 In Storage account, it supports static website hosting.
+
+AZURE FUNCTIONS:-
+
+1. They are event-driven(HTTP trigger, timer trigger, queue trigger), serverless, compute service.
